@@ -1,0 +1,14 @@
+D:\C#\DogDoorOOAD\bin\Debug\net8.0\DogDoorOOAD.exe
+D:\C#\DogDoorOOAD\bin\Debug\net8.0\DogDoorOOAD.deps.json
+D:\C#\DogDoorOOAD\bin\Debug\net8.0\DogDoorOOAD.runtimeconfig.json
+D:\C#\DogDoorOOAD\bin\Debug\net8.0\DogDoorOOAD.dll
+D:\C#\DogDoorOOAD\bin\Debug\net8.0\DogDoorOOAD.pdb
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.AssemblyInfoInputs.cache
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.AssemblyInfo.cs
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.csproj.CoreCompileInputs.cache
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.dll
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\refint\DogDoorOOAD.dll
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.pdb
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\DogDoorOOAD.genruntimeconfig.cache
+D:\C#\DogDoorOOAD\obj\Debug\net8.0\ref\DogDoorOOAD.dll
